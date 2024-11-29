@@ -1,0 +1,1 @@
+mv /home/ubuntu/workspace/workspace/java-project/app/ /home/ubuntu/workspace/workspace/java-project/build/
